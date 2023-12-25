@@ -1,0 +1,2 @@
+Bridges (Count: 1): UV
+ArticulationPoints (Count: 2): U, V

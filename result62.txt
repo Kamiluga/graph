@@ -1,0 +1,331 @@
+{
+  "Vertices": [
+    {
+      "Name": "C"
+    },
+    {
+      "Name": "H"
+    },
+    {
+      "Name": "A"
+    },
+    {
+      "Name": "B"
+    },
+    {
+      "Name": "D"
+    },
+    {
+      "Name": "E"
+    },
+    {
+      "Name": "F"
+    },
+    {
+      "Name": "G"
+    },
+    {
+      "Name": "I"
+    },
+    {
+      "Name": "J"
+    },
+    {
+      "Name": "K"
+    },
+    {
+      "Name": "L"
+    },
+    {
+      "Name": "M"
+    },
+    {
+      "Name": "N"
+    },
+    {
+      "Name": "O"
+    },
+    {
+      "Name": "P"
+    },
+    {
+      "Name": "Q"
+    },
+    {
+      "Name": "R"
+    },
+    {
+      "Name": "U"
+    },
+    {
+      "Name": "T"
+    },
+    {
+      "Name": "S"
+    }
+  ],
+  "Edges": [
+    {
+      "Name": "CH",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "C"
+        },
+        "SecondVertex": {
+          "Name": "H"
+        }
+      },
+      "Weight": 40,
+      "Direction": 2
+    },
+    {
+      "Name": "AC",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "A"
+        },
+        "SecondVertex": {
+          "Name": "C"
+        }
+      },
+      "Weight": 15,
+      "Direction": 0
+    },
+    {
+      "Name": "AB",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "A"
+        },
+        "SecondVertex": {
+          "Name": "B"
+        }
+      },
+      "Weight": 10,
+      "Direction": 2
+    },
+    {
+      "Name": "AD",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "A"
+        },
+        "SecondVertex": {
+          "Name": "D"
+        }
+      },
+      "Weight": 20,
+      "Direction": 2
+    },
+    {
+      "Name": "BE",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "B"
+        },
+        "SecondVertex": {
+          "Name": "E"
+        }
+      },
+      "Weight": 25,
+      "Direction": 2
+    },
+    {
+      "Name": "BF",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "B"
+        },
+        "SecondVertex": {
+          "Name": "F"
+        }
+      },
+      "Weight": 30,
+      "Direction": 0
+    },
+    {
+      "Name": "CG",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "C"
+        },
+        "SecondVertex": {
+          "Name": "G"
+        }
+      },
+      "Weight": 35,
+      "Direction": 2
+    },
+    {
+      "Name": "DI",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "D"
+        },
+        "SecondVertex": {
+          "Name": "I"
+        }
+      },
+      "Weight": 45,
+      "Direction": 0
+    },
+    {
+      "Name": "DJ",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "D"
+        },
+        "SecondVertex": {
+          "Name": "J"
+        }
+      },
+      "Weight": 50,
+      "Direction": 2
+    },
+    {
+      "Name": "EK",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "E"
+        },
+        "SecondVertex": {
+          "Name": "K"
+        }
+      },
+      "Weight": 55,
+      "Direction": 2
+    },
+    {
+      "Name": "EL",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "E"
+        },
+        "SecondVertex": {
+          "Name": "L"
+        }
+      },
+      "Weight": 60,
+      "Direction": 0
+    },
+    {
+      "Name": "LM",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "L"
+        },
+        "SecondVertex": {
+          "Name": "M"
+        }
+      },
+      "Weight": 60,
+      "Direction": 0
+    },
+    {
+      "Name": "FN",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "F"
+        },
+        "SecondVertex": {
+          "Name": "N"
+        }
+      },
+      "Weight": 70,
+      "Direction": 2
+    },
+    {
+      "Name": "NO",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "N"
+        },
+        "SecondVertex": {
+          "Name": "O"
+        }
+      },
+      "Weight": 70,
+      "Direction": 2
+    },
+    {
+      "Name": "OP",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "O"
+        },
+        "SecondVertex": {
+          "Name": "P"
+        }
+      },
+      "Weight": 50,
+      "Direction": 0
+    },
+    {
+      "Name": "PQ",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "P"
+        },
+        "SecondVertex": {
+          "Name": "Q"
+        }
+      },
+      "Weight": 80,
+      "Direction": 2
+    },
+    {
+      "Name": "HR",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "H"
+        },
+        "SecondVertex": {
+          "Name": "R"
+        }
+      },
+      "Weight": 90,
+      "Direction": 0
+    },
+    {
+      "Name": "RU",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "R"
+        },
+        "SecondVertex": {
+          "Name": "U"
+        }
+      },
+      "Weight": 50,
+      "Direction": 0
+    },
+    {
+      "Name": "UT",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "U"
+        },
+        "SecondVertex": {
+          "Name": "T"
+        }
+      },
+      "Weight": 30,
+      "Direction": 2
+    },
+    {
+      "Name": "TS",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "T"
+        },
+        "SecondVertex": {
+          "Name": "S"
+        }
+      },
+      "Weight": 10,
+      "Direction": 2
+    }
+  ],
+  "EdgesCount": 20,
+  "VerticesCount": 21
+}

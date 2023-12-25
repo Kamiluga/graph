@@ -1,0 +1,145 @@
+{
+  "EccentricityVertexInfos": [
+    {
+      "Vertex": {
+        "Name": "A"
+      },
+      "Eccentricity": 175
+    },
+    {
+      "Vertex": {
+        "Name": "B"
+      },
+      "Eccentricity": 185
+    },
+    {
+      "Vertex": {
+        "Name": "C"
+      },
+      "Eccentricity": 450
+    },
+    {
+      "Vertex": {
+        "Name": "D"
+      },
+      "Eccentricity": 165
+    },
+    {
+      "Vertex": {
+        "Name": "E"
+      },
+      "Eccentricity": 210
+    },
+    {
+      "Vertex": {
+        "Name": "F"
+      },
+      "Eccentricity": 680
+    },
+    {
+      "Vertex": {
+        "Name": "G"
+      },
+      "Eccentricity": 485
+    },
+    {
+      "Vertex": {
+        "Name": "H"
+      },
+      "Eccentricity": 410
+    },
+    {
+      "Vertex": {
+        "Name": "I"
+      },
+      "Eccentricity": 450
+    },
+    {
+      "Vertex": {
+        "Name": "J"
+      },
+      "Eccentricity": 215
+    },
+    {
+      "Vertex": {
+        "Name": "K"
+      },
+      "Eccentricity": 265
+    },
+    {
+      "Vertex": {
+        "Name": "L"
+      },
+      "Eccentricity": 360
+    },
+    {
+      "Vertex": {
+        "Name": "M"
+      },
+      "Eccentricity": 645
+    },
+    {
+      "Vertex": {
+        "Name": "N"
+      },
+      "Eccentricity": 610
+    },
+    {
+      "Vertex": {
+        "Name": "O"
+      },
+      "Eccentricity": 540
+    },
+    {
+      "Vertex": {
+        "Name": "P"
+      },
+      "Eccentricity": 490
+    },
+    {
+      "Vertex": {
+        "Name": "Q"
+      },
+      "Eccentricity": 420
+    },
+    {
+      "Vertex": {
+        "Name": "R"
+      },
+      "Eccentricity": 365
+    },
+    {
+      "Vertex": {
+        "Name": "S"
+      },
+      "Eccentricity": 360
+    },
+    {
+      "Vertex": {
+        "Name": "T"
+      },
+      "Eccentricity": 350
+    },
+    {
+      "Vertex": {
+        "Name": "U"
+      },
+      "Eccentricity": 320
+    }
+  ],
+  "Diameter": {
+    "Vertex": {
+      "Name": "F"
+    },
+    "Eccentricity": 680
+  },
+  "Center": {
+    "Name": "D"
+  },
+  "Radius": {
+    "Vertex": {
+      "Name": "D"
+    },
+    "Eccentricity": 165
+  }
+}

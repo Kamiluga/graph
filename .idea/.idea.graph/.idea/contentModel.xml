@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\d4nilevi4\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\d4nilevi4\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_graph.1968114730.00" t="ExcludeRecursive" />
+    <e p="D:\d4nilevi4\Учеба\Камиля\CSharp\graph" t="IncludeFlat">
+      <e p="graph.sln" t="IncludeFlat" />
+      <e p="graph0" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConnectedVertices.cs" t="Include" />
+        <e p="Direction.cs" t="Include" />
+        <e p="Edge.cs" t="Include" />
+        <e p="Graph.cs" t="Include" />
+        <e p="graph0.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SaveLoad" t="Include" />
+        <e p="SaveLoad.cs" t="Include" />
+        <e p="Vertex.cs" t="Include" />
+      </e>
+      <e p="graph1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Dijkstra.cs" t="Include" />
+        <e p="graph1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="VertexInfo.cs" t="Include" />
+      </e>
+      <e p="graph2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EccentricityVertexInfo.cs" t="Include" />
+        <e p="graph2.csproj" t="IncludeRecursive" />
+        <e p="GraphEccentricity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="graph3" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="graph3.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="graph5" t="IncludeRecursive">
+        <e p="AStar.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="graph5.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="VertexPathInfo.cs" t="Include" />
+      </e>
+      <e p="graph6" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="graph6.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Set.cs" t="Include" />
+        <e p="SystemOfDisjointSets.cs" t="Include" />
+      </e>
+      <e p="graph9" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="graph9.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

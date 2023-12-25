@@ -1,0 +1,20 @@
+{
+  "Vertices": [],
+  "Edges": [
+    {
+      "Name": "JU",
+      "IncidentVertices": {
+        "FirstVertex": {
+          "Name": "J"
+        },
+        "SecondVertex": {
+          "Name": "U"
+        }
+      },
+      "Weight": 105,
+      "Direction": 2
+    }
+  ],
+  "EdgesCount": 1,
+  "VerticesCount": 0
+}
